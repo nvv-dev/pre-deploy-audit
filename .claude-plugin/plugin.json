@@ -1,0 +1,16 @@
+{
+  "name": "pre-deploy-audit",
+  "version": "0.1.0",
+  "description": "Release blockers (secrets, debug settings, missing config, unsafe migrations) and a deploy plan with health check and rollback.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/pre-deploy-audit",
+  "repository": "https://github.com/nvv-dev/pre-deploy-audit",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
